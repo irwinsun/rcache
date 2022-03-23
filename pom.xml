@@ -21,7 +21,7 @@
         <jedis.version>2.7.2</jedis.version>
         <commons.lang3.version>3.3.2</commons.lang3.version>
         <kryo.version>3.0.3</kryo.version>
-        <commons.beanutils.version>1.9.2</commons.beanutils.version>
+        <commons.beanutils.version>1.9.4</commons.beanutils.version>
         <ehcache.core.version>2.6.11</ehcache.core.version>
         <spymemcached.version>2.11.7</spymemcached.version>
 
